@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input class="button-clear" type="submit" value="$1">$2]]></content>
+	<description>HTML - Input Submit Clear</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>input:submit:clear</tabTrigger>
+</snippet>

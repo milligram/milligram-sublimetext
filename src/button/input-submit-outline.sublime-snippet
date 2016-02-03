@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input class="button-outline" type="submit" value="$1">$2]]></content>
+	<description>HTML - Input Submit Outline</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>input:submit:outline</tabTrigger>
+</snippet>

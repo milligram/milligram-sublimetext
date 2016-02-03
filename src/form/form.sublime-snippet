@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<form action="$1">
+	$2
+</form>$3]]></content>
+	<description>HTML - Form</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>form</tabTrigger>
+</snippet>

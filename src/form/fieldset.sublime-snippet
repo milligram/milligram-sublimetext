@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<fieldset>
+	$1
+</fieldset>$2]]></content>
+	<description>HTML - Fieldset</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>fieldset</tabTrigger>
+</snippet>

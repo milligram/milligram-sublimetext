@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<td>$1</td>$2]]></content>
+	<description>HTML - Table Standard Cells</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>td</tabTrigger>
+</snippet>

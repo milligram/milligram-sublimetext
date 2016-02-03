@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[<tr>
+	$1
+</th>$2]]></content>
+	<description>HTML - Table Header Cells</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>th</tabTrigger>
+</snippet>

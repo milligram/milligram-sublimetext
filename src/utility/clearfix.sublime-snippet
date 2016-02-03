@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<div class="clearfix">$1</div>$2]]></content>
+	<description>HTML - Clearfix</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>clearfix</tabTrigger>
+</snippet>

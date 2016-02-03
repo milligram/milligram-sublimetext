@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[<thead>
+	<tr>
+		<th>$1</th>
+		<th>$2</th>
+		<th>$3</th>
+	</tr>
+</thead>$4]]></content>
+	<description>HTML - Table Header</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>thead</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<strong>$1</strong>$2]]></content>
+	<description>HTML - Strong</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>strong</tabTrigger>
+</snippet>

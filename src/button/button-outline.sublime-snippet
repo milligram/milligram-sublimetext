@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<button class="button-outline">$1</button>$2]]></content>
+	<description>HTML - Button Outline</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>button:outline</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<small>$1</small>$2]]></content>
+	<description>HTML - Small</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>small</tabTrigger>
+</snippet>

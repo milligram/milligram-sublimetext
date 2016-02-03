@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<dl>
+	<dt>$1</dt>
+	<dd>$2</dd>
+	<dd>$3</dd>
+</dl>$4]]></content>
+	<description>HTML - Description List</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>dl</tabTrigger>
+</snippet>

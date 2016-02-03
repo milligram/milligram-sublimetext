@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<pre><code>$1
+</code></pre>$2]]></content>
+	<description>HTML - Preformatted</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>pre</tabTrigger>
+</snippet>

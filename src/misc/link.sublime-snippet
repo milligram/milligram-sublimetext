@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<link rel=stylesheet href="$1">$2]]></content>
+	<description>HTML - Link</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>link</tabTrigger>
+</snippet>

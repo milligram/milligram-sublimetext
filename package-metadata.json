@@ -1,0 +1,8 @@
+{
+	"description": "Milligram Snippets for Sublime Text",
+	"dependencies": [],
+	"sublime_text": "*",
+	"version": "0.0.1",
+	"platforms": ["*"],
+	"url": "https://github.com/milligram/snippet-sublime/"
+}

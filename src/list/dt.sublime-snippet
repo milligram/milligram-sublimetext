@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<dt>$1</dt>$2]]></content>
+	<description>HTML - Description Term</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>dt</tabTrigger>
+</snippet>

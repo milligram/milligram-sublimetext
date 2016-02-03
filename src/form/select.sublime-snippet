@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<select>
+	<option>$1</option>
+	<option>$2</option>
+	<option>$3</option>
+</select>$4]]></content>
+	<description>HTML - Select</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>select</tabTrigger>
+</snippet>

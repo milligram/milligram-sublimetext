@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<a href="$1">$2</a>$3]]></content>
+	<description>HTML - Anchor</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>a</tabTrigger>
+</snippet>

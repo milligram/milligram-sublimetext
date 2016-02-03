@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<h6>$1</h6>$2]]></content>
+	<description>HTML - Heading 6</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>h6</tabTrigger>
+</snippet>

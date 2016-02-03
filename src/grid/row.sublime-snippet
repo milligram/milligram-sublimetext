@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<div class="row">
+	<div class="column">$1</div>
+	<div class="column">$2</div>
+	<div class="column">$3</div>
+</div>$4]]></content>
+	<description>HTML - Row</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>row</tabTrigger>
+</snippet>

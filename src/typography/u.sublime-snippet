@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<u>$1</u>$2]]></content>
+	<description>HTML - Underline</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>u</tabTrigger>
+</snippet>

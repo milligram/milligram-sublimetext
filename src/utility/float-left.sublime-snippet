@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<div class="float-left">$1</div>$2]]></content>
+	<description>HTML - Float Left</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>float:left</tabTrigger>
+</snippet>

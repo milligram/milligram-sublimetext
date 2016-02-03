@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<label class="label-inline">$1</label>$2]]></content>
+	<description>HTML - Label Inline</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>label:inline</tabTrigger>
+</snippet>

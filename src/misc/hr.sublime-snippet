@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<hr>$1]]></content>
+	<description>HTML - Thematic Break</description>
+	<scope>source.html meta.property-value.html</scope>
+	<tabTrigger>hr</tabTrigger>
+</snippet>
