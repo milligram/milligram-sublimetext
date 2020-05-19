@@ -1,6 +1,6 @@
 {
-	"name": "milligram-snippets-sublime",
-	"description": "Milligram Snippets for Sublime Text",
+	"name": "milligram-sublime",
+	"description": "A minimalist CSS framework for SublimeText.",
 	"dependencies": [],
 	"sublime_text": "*",
 	"version": "0.0.2",
