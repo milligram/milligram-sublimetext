@@ -1,5 +1,5 @@
 environment:
-  nodejs_version: 7
+  nodejs_version: 12
 platform:
   - x86
   - x64
