@@ -1,9 +1,9 @@
 {
-	"name": "milligram-sublime",
-	"description": "A minimalist CSS framework for SublimeText.",
+	"name": "milligram-sublimetext",
+	"description": "A minimalist CSS framework for Sublime Text.",
 	"dependencies": [],
 	"sublime_text": "*",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"platforms": ["*"],
-	"url": "https://github.com/milligram/snippets-sublime/"
+	"url": "https://github.com/milligram/milligram-sublimetext/"
 }
